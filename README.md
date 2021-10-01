@@ -5,7 +5,7 @@
  
  I’m currently starting to learn: Sass and bootstrap.
  
-I’m looking to collaborate on any Jr level project I possibly can to get more and more practice and develop my habilities!
+I’m looking for my first job in the industry and eager to learn and improve my habilities!
 
 📫 You can reach me at my email: ariadnamaldonadogrieco@gmail.com. On twitter: @AriadnaMGrieco
 
