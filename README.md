@@ -1,6 +1,6 @@
 
-👋Hola, Soy @AriadnaMaldonadoGrieco. Soy una desarrolladora web comenzando, actualmente viviendo en Argentina. Hablo tanto Español como Inglés fluido.
-Tengo experiencia trabajando con:
+👋Hola, Soy @AriadnaMaldonadoGrieco. Soy una desarrolladora web, actualmente viviendo en Argentina. Hablo tanto Español como Inglés fluido.
+Tengo experiencia trabajando en proyectos con:
 -HTML
 -CSS
 -Javascript
@@ -13,7 +13,7 @@ Estoy interesada en el desarrollo front end, hacer diseño divertido y accesible
 Recientemente aprendi: Diseño responsive con flexbox.
 
 Ahora estoy aprendiendo: Sass y Bootstrap.
-Estoy buscando mi primero empleo en la industria and estoy ansiosa por aprender y mejorar mis habilidades!
+Estoy buscando mi primer empleo en la industria y estoy ansiosa por aprender y mejorar mis habilidades!
 📫Me puedes contactar por mi correo: ariadnamaldonadogrieco@gmail.com. En twitter: @AriadnaMGrieco
 
 ///
@@ -32,7 +32,7 @@ I have experience working with:
  I recently learned: Responsive design with flexbox.
  
  I’m currently learning: Sass and Bootstrap.
-I’m looking for my first job in the industry and eager to learn and improve my habilities!
+I’m looking for my first job in the industry and I’m eager to learn and improve my habilities!
 
 📫 You can reach me at my email: ariadnamaldonadogrieco@gmail.com. On twitter: @AriadnaMGrieco
 
