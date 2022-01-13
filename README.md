@@ -1,5 +1,5 @@
 
-👋Hola, Soy @AriadnaMaldonadoGrieco. Soy una desarrolladora web, actualmente viviendo en Argentina. Hablo tanto Español como Inglés fluido.
+👋Hola, Soy @AriadnaMaldonadoGrieco. Soy una desarrolladora web comenzando, actualmente viviendo en Argentina. Hablo tanto Español como Inglés fluido.
 Tengo experiencia trabajando en proyectos con:
 -HTML
 -CSS
