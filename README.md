@@ -1,38 +1,8 @@
+👋 Hi, I'm @AriadnaMaldonadoGrieco. I'm a Frontend web Developer. Fully fluent in both English and Spanish. Passionate about accessible design and development.
+I'm currently working with React and Typescript but love to work with anything Javascript related. I'm self-taught and eager to find new challenges.
+Born in Venezuela, living in Argentina.
 
-👋Hola, Soy @AriadnaMaldonadoGrieco. Soy una desarrolladora web, actualmente viviendo en Argentina. Hablo tanto Español como Inglés fluido.
-Tengo experiencia trabajando en proyectos con:
--HTML
--CSS
--Javascript
--Responsive design with flexbox y CSS grid
--Bootstrap
--Photoshop
--GIMP
+#HTML #CSS #Javascript #React #Typescript #Tailwind #StyledComponents #Bootstrap #WSLUbuntu #Prettier #ESLint
 
-Estoy interesada en el desarrollo front end, hacer diseño divertido y accesible, y sobretodo: Aprender cosas nuevas todos los dias.
-
-Ahora estoy aprendiendo: React.
-
-Estoy buscando mi primer empleo en la industria y estoy ansiosa por aprender y mejorar mis habilidades!
-📫Me puedes contactar por mi correo: ariadnamaldonadogrieco@gmail.com. En twitter: @AriadnaMGrieco
-
-///
-
-👋 Hi, I’m @AriadnaMaldonadoGrieco. Im a web developer, currently living in Argentina. I speak both Spanish and English fluently.
-I have experience working with:
--HTML
--CSS
--Javascript
--Responsive design with flexbox and CSS grid
--Bootstrap
--Photoshop
-GIMP
-
- I’m interested in front end developing, making fun and accesible design, and most of all: Learning new things everyday.
- 
- I’m currently learning: React.
- 
-I’m looking for my first job in the industry and I’m eager to learn and improve my habilities!
-
-📫 You can reach me at my email: ariadnamaldonadogrieco@gmail.com. On twitter: @AriadnaMGrieco
+📫 You can reach me at my email: ariadnamaldonadogrieco@gmail.com. Or check my other links: https://linktr.ee/ariadnamgrieco
 
